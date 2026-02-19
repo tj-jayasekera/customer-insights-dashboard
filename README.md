@@ -2,14 +2,14 @@
 
 ## 📚 Table of Contents
 
-- [📌 Project Overview](#project-overview)
-- [🎯 Business Objective](#business-objective)
-- [🛠 Tools](#tools)
-- [🏗 Data Architecture](#data-architecture)
-- [🤖 AI-Driven NLP Integration](#ai-driven-nlp-integration)
-- [📊 Dashboard Implementation](#dashboard-implementation)
-- [🔒 Data Governance](#data-governance)
-- [🚀 Deployment & Impact](#deployment-and-impact)
+- [📌 Project Overview](#-project-overview)
+- [🎯 Business Objective](#-business-objective)
+- [🛠 Tools](#-tools)
+- [🏗 Data Architecture](#-data-architecture)
+- [🤖 AI-Driven NLP Integration](#-ai-driven-nlp-integration)
+- [📊 Dashboard Implementation](#-dashboard-implementation)
+- [🔒 Data Governance](#-data-governance)
+- [🚀 Deployment & Impact](#-deployment-and-impact)
 
 ## 📌 Project Overview
 
