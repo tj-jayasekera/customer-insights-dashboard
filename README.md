@@ -1,4 +1,4 @@
-# Customer Insights Dashboard
+# 🏛️ Customer Insights Dashboard
 
 ## 📚 Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## 📌 Project Overview
 
-During my internship at the **City of Melbourne** (Apr 2025 – Jun 2025), I designed and deployed a production-ready [Customer Intelligence Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2) to replace manual Excel reporting and enable cross-department performance visibility.
+During my internship at the **City of Melbourne** (Apr 2025 – Jun 2025), I designed and deployed a production-ready [Customer Intelligence Dashboard](https://github.com/tj-jayasekera/customer-insights-dashboard/blob/main/CX%20Dashboard%20CoM.pdf) to replace manual Excel reporting and enable cross-department performance visibility.
 
 The dashboard consolidates:
 - Customer survey data
@@ -94,11 +94,11 @@ The dashboard:
 - Displays last refresh timestamp
 - Automatically updates from Databricks
 
-[View a PDF of the Dashboard here](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2)
+[View a PDF of the Dashboard here](https://github.com/tj-jayasekera/customer-insights-dashboard/blob/main/CX%20Dashboard%20CoM.pdf)
 
 ## 🔒 Data Governance
 
-The [PDF](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2) included in this repository contains redacted screenshots of the dashboard.
+The [PDF](https://github.com/tj-jayasekera/customer-insights-dashboard/blob/main/CX%20Dashboard%20CoM.pdf) included in this repository contains redacted screenshots of the dashboard.
 
 Although I used only a small design sample of live data, figures and sensitive metrics have been intentionally blurred to protect privacy and operational confidentiality.
 
