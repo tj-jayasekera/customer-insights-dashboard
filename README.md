@@ -11,7 +11,7 @@
 - [🔒 Data Governance](#data-governance)
 - [🚀 Deployment & Impact](#deployment-and-impact)
 
-## Project Overview
+## 📌 Project Overview
 
 During my internship at the **City of Melbourne** (Apr 2025 – Jun 2025), I designed and deployed a production-ready [Customer Intelligence Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2) to replace manual Excel reporting and enable cross-department performance visibility.
 
@@ -24,7 +24,7 @@ The dashboard consolidates:
 It is now actively used across multiple organisational levels.
 
 
-## Business Objective
+## 🎯 Business Objective
 
 The organisation needed a scalable way to:
 - Measure customer satisfaction and response rates
@@ -36,7 +36,7 @@ The organisation needed a scalable way to:
 Previously, reporting relied heavily on manual spreadsheet processes.
 This solution introduced a structured, automated BI framework.
 
-## Tools
+## 🛠 Tools
 
 - **Databricks** – Data transformation, modelling, NLP processing
 - **SQL** – Silver/Gold layer table design and KPI logic
@@ -44,7 +44,7 @@ This solution introduced a structured, automated BI framework.
 - **NLP / AI Models** – Sentiment scoring, topic classification, transcript summarisation
 - **Genesys Voice Data** – Call transcript ingestion and analysis
 
-## Data Architecture
+## 🏗 Data Architecture
 
 All raw data (survey + voice transcripts) was hosted in Databricks.
 
@@ -61,7 +61,7 @@ I implemented a layered architecture:
 
 All transformations were written in SQL on Databricks and optimised for repeatable execution.
 
-## AI-Driven NLP Integration
+## 🤖 AI-Driven NLP Integration
 
 To enhance voice analytics, I implemented NLP workflows in Databricks to:
 - Generate sentiment scores
@@ -77,7 +77,7 @@ I manually validated AI outputs to ensure reliability.
 These AI-derived metrics were integrated directly into Power BI to provide a new lens on departmental performance.
 
 
-## Dashboard Implementation
+## 📊 Dashboard Implementation
 
 The final dashboard consists of three main pages:
 
@@ -96,7 +96,7 @@ The dashboard:
 
 [View a PDF of the Dashboard here](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2)
 
-## Data Governance
+## 🔒 Data Governance
 
 The [PDF](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2) included in this repository contains redacted screenshots of the dashboard.
 
@@ -108,7 +108,7 @@ The screenshots demonstrate:
 - Filtering structure
 - Design logic
 
-## Deployment & Impact
+## 🚀 Deployment & Impact
 
 - SQL pipelines built for consistent re-execution
 - Power BI configured for automated refresh
