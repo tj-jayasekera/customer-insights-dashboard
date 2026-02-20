@@ -13,7 +13,7 @@
 
 ## 📌 Project Overview
 
-During my internship at the **City of Melbourne** (Apr 2025 – Jun 2025), I designed and deployed a production-ready [Customer Intelligence Dashboard](https://github.com/tj-jayasekera/customer-insights-dashboard/blob/main/CX%20Dashboard%20CoM.pdf) to replace manual Excel reporting and enable cross-department performance visibility.
+During my internship at the **City of Melbourne** (Apr 2025 – Jun 2025), I designed and deployed a production-ready Customer Intelligence Dashboard ([view here](https://github.com/tj-jayasekera/customer-insights-dashboard/blob/main/CX%20Dashboard%20CoM.pdf)) to replace manual Excel reporting and enable cross-department performance visibility.
 
 The dashboard consolidates:
 - Customer survey data
