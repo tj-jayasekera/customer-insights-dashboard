@@ -7,7 +7,7 @@
 - [🛠 Tools](#-tools)
 - [🏗 Data Architecture](#-data-architecture)
 - [🤖 AI-Driven NLP Integration](#-ai-driven-nlp-integration)
-- [📊 Dashboard Implementation](#-dashboard-implementation)
+- [📊 Dashboard Design](#-dashboard-design)
 - [🔒 Data Governance](#-data-governance)
 - [🚀 Deployment & Impact](#-deployment-and-impact)
 
@@ -77,15 +77,15 @@ I manually validated AI outputs to ensure reliability.
 These AI-derived metrics were integrated directly into Power BI to provide a new lens on departmental performance.
 
 
-## 📊 Dashboard Implementation
+## 📊 Dashboard Design
 
 The final dashboard consists of three main pages:
 
-1. **Customer Feedback Analysis**
+1. **Customer Feedback Analysis**:
 Survey metrics, performance over time, service-level breakdown
-2. 	**Performance Comparison**
+2. 	**Performance Comparison**:
 Cross-period comparison of departments and service groups
-3. **Complaints Analysis**
+3. **Complaints Analysis**:
 Focused page for complaint trends and drivers
 
 The dashboard:
