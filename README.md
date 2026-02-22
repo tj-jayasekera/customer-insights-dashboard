@@ -110,9 +110,9 @@ The screenshots demonstrate:
 
 ## 🚀 Deployment & Impact
 
-- SQL pipelines built for consistent re-execution
-- Power BI configured for automated refresh
-- Dashboard successfully rolled out organisation-wide
+- SQL pipelines were built for consistent re-execution
+- Power BI was configured for automated refresh
+- Dashboard was successfully rolled out organisation-wide
 - Actively used across multiple organisational levels
 
 This was my first hands-on experience with both **Power BI** and **Databricks**, and by the end of the internship I was fully confident designing, modelling, and deploying production BI solutions.
